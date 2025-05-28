@@ -7,7 +7,7 @@
 ## 📌 Featured Projects
 
 - [HR Analytics Dashboard](https://github.com/simrann774/Power-BI-HR-Analytics-Dashboard)
-- [Google Fiber Business Intelligence Documents Project](https://github.com/simrann774/Google-fiber-bi-docs).
+- [Google Fiber Business Intelligence Documents Project](https://github.com/simrann774/Google-fiber-bi-docs)
 - [Retail Store Annual Report](https://github.com/simrann774/Retail_Store_Annual_Report)
 - [Festive Sales Analysis (Python)](https://github.com/simrann774/Python-Festive_Sales_Analysis-Project)
 
