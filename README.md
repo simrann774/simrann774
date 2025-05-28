@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Simran Yadav
-🚀 Business Information Technology Graduate | Data Analyst | Power BI Developer | Business Analyst | Business Intelligence Analyst
+🚀 Business Information Technology Graduate | Data Analyst | Power BI Developer | Business Analyst
 🔹 Passionate about data analysis and wrangling,visualization and Automation.  
 🔹 Experienced in Python, SQL, Power BI, and Agile Framework.  
 
